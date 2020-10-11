@@ -1,1 +1,4 @@
 # Dlithe_Project_Traffic_Sign_Classification
+Traffic Signs Recognition
+Traffic signs can be analysed using forward-facing cameras in many modern cars, vehicles and trucks. One of the basic use cases of a traffic-sign recognition system is for speed limits. Modern traffic-sign recognition systems are being developed using convolutional neural networks, mainly driven by the requirements of autonomous vehicles and self-driving cars. In these scenarios, the detection system needs to identify a variety of traffic signs and not just speed limits. A convolutional neural network can be trained to take in these predefined traffic signs and 'learn' using Deep Learning techniques.
+The German Traffic signs recognition benchmark dataset (GTSRB) is used to build a Data Science Project on Traffic Signs Recognition using CNN in Python language.
